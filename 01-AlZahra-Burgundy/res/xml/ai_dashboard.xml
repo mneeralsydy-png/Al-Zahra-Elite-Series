@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    android:title="@string/ai_dashboard_title"
+    android:summary="@string/ai_dashboard_summary"
+    android:icon="@drawable/abo_arab_ic_specprivacy"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:layout="@layout/abu_arab_preference_category"
+        android:title="@string/ai_dashboard_category">
+        <Preference
+            android:icon="@drawable/abo_arab_ic_video"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_video_generator"
+            android:key="ai_veo3"
+            android:summary="@string/ai_video_generator_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/veo-3-video-generator?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/abo_arab_ic_gallery"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_image_generator"
+            android:key="ai_image_gen"
+            android:summary="@string/ai_image_generator_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/abo_arab_ic_text"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_text_writer"
+            android:key="ai_text_writer"
+            android:summary="@string/ai_text_writer_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/abo_arab_ic_chat"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_chat_assistant"
+            android:key="ai_chat"
+            android:summary="@string/ai_chat_assistant_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:layout="@layout/abu_arab_preference_category"
+        android:title="Advanced AI Tools">
+        <Preference
+            android:icon="@drawable/abo_arab_ic_voice"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_voice_cloner"
+            android:key="ai_voice"
+            android:summary="@string/ai_voice_cloner_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/abo_arab_ic_code"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_code_helper"
+            android:key="ai_code"
+            android:summary="@string/ai_code_helper_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/abo_arab_ic_brand"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_logo_maker"
+            android:key="ai_logo"
+            android:summary="@string/ai_logo_maker_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+        <Preference
+            android:icon="@drawable/abo_arab_ic_music"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_music_generator"
+            android:key="ai_music"
+            android:summary="@string/ai_music_generator_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:layout="@layout/abu_arab_preference_category"
+        android:title="@string/ai_tools_count">
+        <Preference
+            android:icon="@drawable/abo_arab_privacy"
+            android:layout="@layout/abu_arab_preference_cevron"
+            android:title="@string/ai_all_tools"
+            android:key="ai_all_tools"
+            android:summary="@string/ai_all_tools_sum">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.easemate.ai/?utm_source=alzahra-app&amp;utm_medium=inapp&amp;utm_campaign=ai-hub" />
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>
