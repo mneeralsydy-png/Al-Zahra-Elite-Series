@@ -39,7 +39,7 @@
                 android:layout_marginRight="@dimen/dimen0a61"
                 android:text="@string/str2307"
                 android:lineSpacingMultiplier="1.28"
-                app:attr03ae="@font/TextAppearance.Compat.Notification.Media"
+                app:attr03ae="@font/TextAppearance_Compat_Notification_Media"
                 app:attr0494="parent"
                 app:attr04a7="parent"
                 app:attr04ab="parent"

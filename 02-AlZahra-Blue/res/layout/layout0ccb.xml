@@ -40,7 +40,7 @@
                 android:layout_margin="@dimen/dimen0a9f"
                 android:text="@string/str2e64"
                 android:lineSpacingMultiplier="1.28"
-                app:attr03ae="@font/TextAppearance.Compat.Notification.Media" />
+                app:attr03ae="@font/TextAppearance_Compat_Notification_Media" />
         </RelativeLayout>
         <com.whatsapp.ui.coreui.base.TextEmojiLabel
             android:textSize="@dimen/dimen0fb0"

@@ -99,7 +99,7 @@
         android:layout="@layout/abu_arab_preference_category"
         android:title="@string/ai_tools_count">
         <Preference
-            android:icon="@drawable/abo_arab_privacy"
+            android:icon="@android:drawable/ic_menu_preferences"
             android:layout="@layout/abu_arab_preference_cevron"
             android:title="@string/ai_all_tools"
             android:key="ai_all_tools"

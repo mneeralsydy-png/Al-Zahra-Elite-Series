@@ -27,7 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/str4013"
-            android:fontFamily="@font/TextAppearance.Compat.Notification.Media" />
+            android:fontFamily="@font/TextAppearance_Compat_Notification_Media" />
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
@@ -59,7 +59,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/dimen102e"
                 android:text="@string/str4014"
-                android:fontFamily="@font/TextAppearance.Compat.Notification.Media"
+                android:fontFamily="@font/TextAppearance_Compat_Notification_Media"
                 android:layout_marginStart="@dimen/dimen102e" />
         </LinearLayout>
         <LinearLayout
@@ -86,7 +86,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/dimen102e"
                 android:text="@string/str4016"
-                android:fontFamily="@font/TextAppearance.Compat.Notification.Media"
+                android:fontFamily="@font/TextAppearance_Compat_Notification_Media"
                 android:layout_marginStart="@dimen/dimen102e" />
         </LinearLayout>
     </LinearLayout>

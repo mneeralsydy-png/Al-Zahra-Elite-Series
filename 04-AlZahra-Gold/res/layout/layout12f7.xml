@@ -15,7 +15,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16.0dip"
-        app:attr03ae="@font/TextAppearance.Compat.Notification.Media">
+        app:attr03ae="@font/TextAppearance_Compat_Notification_Media">
         <com.whatsapp.ui.coreui.base.WaImageView
             android:layout_gravity="center"
             android:id="@id/wa_logo"

@@ -5715,7 +5715,7 @@
         <item name="android:textSize">@dimen/dimen0fc0</item>
         <item name="android:textColor">?attr0a47</item>
         <item name="android:lineSpacingExtra">4.0sp</item>
-        <item name="attr03ae">@font/TextAppearance.Compat.Notification</item>
+        <item name="attr03ae">@font/TextAppearance_Compat_Notification_Media</item>
     </style>
     <style name="style031a" parent="@style/style05eb">
         <item name="android:scrollbarAlwaysDrawVerticalTrack">true</item>
@@ -11620,7 +11620,7 @@
     <style name="style070f">
         <item name="android:textSize">15.0sp</item>
         <item name="android:textColor">@color/color09e3</item>
-        <item name="android:fontFamily">@font/TextAppearance.Compat.Notification.Info.Media</item>
+        <item name="android:fontFamily">@font/TextAppearance_Compat_Notification_Info_Media</item>
         <item name="android:textAlignment">viewStart</item>
         <item name="attr03bb">400</item>
         <item name="attr04d0">20.0dip</item>
@@ -11629,13 +11629,13 @@
         <item name="attr00cc">@style/style05bb</item>
     </style>
     <style name="style0711">
-        <item name="android:fontFamily">@font/TextAppearance.Compat.Notification.Info.Media</item>
+        <item name="android:fontFamily">@font/TextAppearance_Compat_Notification_Info_Media</item>
         <item name="attr03bb">500</item>
     </style>
     <style name="style0712">
         <item name="android:textSize">24.0sp</item>
         <item name="android:textColor">@color/color09e3</item>
-        <item name="android:fontFamily">@font/TextAppearance.Compat.Notification.Info</item>
+        <item name="android:fontFamily">@font/TextAppearance_Compat_Notification_Info</item>
         <item name="android:textAlignment">viewStart</item>
         <item name="attr03bb">700</item>
         <item name="attr04d0">30.0dip</item>
@@ -11647,7 +11647,7 @@
         <item name="android:textSize">13.0sp</item>
         <item name="android:textColor">@color/color09ee</item>
         <item name="android:textColorLink">@color/color09de</item>
-        <item name="android:fontFamily">@font/TextAppearance.Compat.Notification.Info.Media</item>
+        <item name="android:fontFamily">@font/TextAppearance_Compat_Notification_Info_Media</item>
         <item name="android:textAlignment">viewStart</item>
         <item name="attr03bb">400</item>
         <item name="attr04d0">18.0dip</item>
@@ -11655,7 +11655,7 @@
     <style name="style0715">
         <item name="android:textSize">16.0sp</item>
         <item name="android:textColor">@color/color09e3</item>
-        <item name="android:fontFamily">@font/TextAppearance.Compat.Notification.Info.Media</item>
+        <item name="android:fontFamily">@font/TextAppearance_Compat_Notification_Info_Media</item>
         <item name="android:textAlignment">viewStart</item>
         <item name="attr03bb">500</item>
         <item name="attr04d0">20.0dip</item>
@@ -11663,7 +11663,7 @@
     <style name="style0716">
         <item name="android:textSize">15.0sp</item>
         <item name="android:textColor">@color/color09e3</item>
-        <item name="android:fontFamily">@font/TextAppearance.Compat.Notification.Info.Media</item>
+        <item name="android:fontFamily">@font/TextAppearance_Compat_Notification_Info_Media</item>
         <item name="android:textAlignment">viewStart</item>
         <item name="attr03bb">500</item>
         <item name="attr04d0">20.0dip</item>

@@ -25,7 +25,7 @@
             android:id="@id/bot_rich_response_code_bottom_sheet_title"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:fontFamily="@font/TextAppearance.Compat.Notification.Media"
+            android:fontFamily="@font/TextAppearance_Compat_Notification_Media"
             android:layout_marginStart="@dimen/dimen0bed"
             android:layout_marginEnd="@dimen/dimen0bed"
             app:attr0a24="wds_font_headline2"

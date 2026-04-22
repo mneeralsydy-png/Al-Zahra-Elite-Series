@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/dimen066d"
                 android:text="@string/str18fd"
-                android:fontFamily="@font/TextAppearance.Compat.Notification.Media"
+                android:fontFamily="@font/TextAppearance_Compat_Notification_Media"
                 android:textFontWeight="500" />
             <com.whatsapp.ui.coreui.base.WaTextView
                 android:textSize="22.0sp"

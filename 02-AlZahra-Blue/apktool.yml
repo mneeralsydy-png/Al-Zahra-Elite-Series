@@ -1,0 +1,11 @@
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '34'
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: com.alzahra.gold
+versionInfo:
+  versionCode: '2147483647'
+  versionName: 2.26.7.74
+compressionType: false
+sharedLibrary: false
