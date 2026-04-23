@@ -1,17 +1,3 @@
-# Build outputs
+build/
 *.apk
-*.ap_
-*.dex
-
-# IDE
-.idea/
-*.iml
-.gradle/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Temporary
-*.tmp
-*.log
+*.zip

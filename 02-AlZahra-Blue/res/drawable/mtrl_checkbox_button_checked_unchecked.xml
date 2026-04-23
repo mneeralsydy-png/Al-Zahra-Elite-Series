@@ -5,11 +5,11 @@
     xmlns:aapt="http://schemas.android.com/aapt">
     <target
         android:name="@string/str403e"
-        android:animation="@drawable/$mtrl_checkbox_button_checked_unchecked__0" />
+        android:animation="@drawable/_ds_mtrl_checkbox_button_checked_unchecked__0" />
     <target
         android:name="@string/str403e"
-        android:animation="@drawable/$mtrl_checkbox_button_checked_unchecked__1" />
+        android:animation="@drawable/_ds_mtrl_checkbox_button_checked_unchecked__1" />
     <target
         android:name="@string/str403f"
-        android:animation="@drawable/$mtrl_checkbox_button_checked_unchecked__2" />
+        android:animation="@drawable/_ds_mtrl_checkbox_button_checked_unchecked__2" />
 </animated-vector>

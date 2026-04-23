@@ -8,9 +8,9 @@
         android:shareInterpolator="true">
         <target
             android:name="@string/str4066"
-            android:animation="@drawable/$mtrl_switch_thumb_checked_unchecked__0" />
+            android:animation="@drawable/_ds_mtrl_switch_thumb_checked_unchecked__0" />
         <target
             android:name="@string/str4066"
-            android:animation="@drawable/$mtrl_switch_thumb_checked_unchecked__1" />
+            android:animation="@drawable/_ds_mtrl_switch_thumb_checked_unchecked__1" />
     </set>
 </animated-vector>

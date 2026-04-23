@@ -5,5 +5,5 @@
     xmlns:aapt="http://schemas.android.com/aapt">
     <target
         android:name="@string/str403c"
-        android:animation="@drawable/$mtrl_checkbox_button_icon_indeterminate_checked__0" />
+        android:animation="@drawable/_ds_mtrl_checkbox_button_icon_indeterminate_checked__0" />
 </animated-vector>
